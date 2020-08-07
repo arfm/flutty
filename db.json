@@ -27,10 +27,10 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
   "login":{
    "mensaje":"CONTINUA"
-  }
+  },
   "recoleccion":{
     "mensaje":"LEIDO"
   }
